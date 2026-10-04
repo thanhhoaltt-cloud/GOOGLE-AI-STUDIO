@@ -1,0 +1,6 @@
+{
+  "name": "Khám Phá Gia Tốc - Vật Lí 10",
+  "description": "Mô phỏng thí nghiệm đo sự biến đổi vận tốc, rút ra công thức, ý nghĩa và đơn vị của gia tốc theo SGK Kết Nối Tri Thức với Cuộc Sống.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
